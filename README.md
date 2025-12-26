@@ -40,6 +40,5 @@ Before running the project, make sure you have the following:
 
 1.  A modern web browser (Chrome, Firefox, Edge).
 2.  A text editor (VS Code recommended).
-3.  **API Key:** You must obtain an API key from [https://cloud.google.com/translate].
 
 ---
