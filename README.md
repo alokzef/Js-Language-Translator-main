@@ -58,6 +58,6 @@ To get a local copy up and running, follow these simple steps.
 
 ## ⚠️ Note on API Usage
 
-This project uses an unofficial, undocumented API endpoint from Google Translate (`translate.googleapis.com`). This endpoint is not intended for production use and may be subject to rate-limiting, breaking changes, or discontinuation by Google at any time. For production applications, it is highly recommended to use the official Google Cloud Translation API.
+This project uses an unofficial, undocumented API endpoint from Google Translate (`translate.googleapis.com`). This endpoint is not intended for production use and may be subject to rate-limiting, breaking changes, or discontinuation by Google at any time.
 
 ---
